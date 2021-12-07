@@ -1,0 +1,2 @@
+# Design-and-anlysis-of-Algorithms
+In this course in our third semester we learned about time Complexities and their importance in everyday progamming. Along side we also learnt various algorithms on searching and sorting of arrays along side new data structure named Heap. We also learnt various algorithms on graph such as Krushkal,prims algorithm etc. Though at starting of the course I started to code in C as time went I started coding in python in OOP , Thanks to OOP course :).
